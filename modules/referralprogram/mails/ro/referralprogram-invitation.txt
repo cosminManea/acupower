@@ -1,0 +1,21 @@
+
+[{shop_url}] 
+
+{firstname_friend} {lastname_friend}, alătură-te nouă! 
+
+Prietenul dvs {firstname}{lastname} va recomandat {shop_name}
+[{shop_url}]!
+
+Suntem incantati sa va oferim un cupon in valoare de {discount} pe
+care il puteti folosi la urmatoarea dumneavoastra comanda. Îndrumă
+și câștigă un voucher dicount de {discount} Este foarte simplu să
+vă înscrieți. Da-ți doar un clic aici '! [{link}]
+
+La autentificare, nu uitati sa furnizati adresa de email a
+prietenului referent: {email}.
+
+Sincere salutări, 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

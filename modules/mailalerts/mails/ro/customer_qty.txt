@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Salut, 
+
+Acest articol este din nou in stoc.
+
+Puteţi accesa pagina produsului mergând la următorul link:
+{product} [{product_link}]
+
+Îl puteţi comanda acum din magazinul nostru online. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

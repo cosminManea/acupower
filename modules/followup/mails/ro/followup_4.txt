@@ -1,0 +1,24 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname}, 
+
+Sunteţi unul din cei mai buni clienţi, totuşi nu aţi mai plasat o
+comanda de {days_threshold} zile.
+
+Coşul dvs a fost salvat, puteţi să plasaţi comanda vizitând
+magazinul: {shop_url} [{shop_url}]
+
+Dorim să vă mulțumim pentru încrederea pe care v-ați pus-o în
+noi și vrem să vă acordăm un discount în valoare de {amount}%
+valabil la următoarea comandă! Această ofertă este valabilă
+pentru {days} de zile, așa că nu irosiți nici un moment! 		 
+
+AICI ESTE CUPONUL DVS: {voucher_num}
+
+Introduceţi acest cod în coşul de cumpărături pentru a obţine
+reducerea. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

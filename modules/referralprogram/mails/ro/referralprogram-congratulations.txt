@@ -1,0 +1,18 @@
+
+[{shop_url}] 
+
+Felicitări! 
+
+Prietenul căruia ne-ați recomandat
+{sponsored_firstname}{sponsored_lastname} și-a plasat prima lui
+comandă pe {shop_name} [{shop_url}]!
+
+Suntem încântați să vă oferim un voucher în valoare de
+{discount_display} (VOUCHER #{discount_name}) ce îl vei putea folosi
+la următoarea comandă. 		 
+
+Sincere salutări, 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

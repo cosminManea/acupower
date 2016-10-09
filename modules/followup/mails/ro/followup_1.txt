@@ -1,0 +1,23 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname}, 
+
+Am remarcat ca in timpul ultimei vizite la {shop_name}, nu ati
+finalizat comanda pe care ati inceput-o.
+
+Coşul dvs a fost salvat, puteţi să plasaţi comanda vizitând
+magazinul: {shop_url} [{shop_url}]
+
+Ca stimulare, vă putem oferi o reducere de {amount}% pentru
+următoarea comandă! Această ofertă este valabilă pentru {days}
+zile, așa că nu irosi nici un moment! 		 
+
+AICI ESTE CUPONUL DVS: {voucher_num}
+
+Introduceţi acest cod în coşul de cumpărături pentru a obţine
+reducerea. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

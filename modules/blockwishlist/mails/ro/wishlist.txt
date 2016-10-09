@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Salut, 
+
+{firstname}{lastname} indică că poate ați dori să vedeți lista
+lui/ei de dorințe: {wishlist}
+
+{wishlist} [{message}] 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,59 @@
+
+[{shop_url}] 
+
+Felicitări! 
+
+A fost plasată o comandă noua pe {shop_name} de la următorul
+client: {firstname} {lastname} ({email}) 
+
+COMANDĂ: {order_name} Amplasate pe {date}
+
+PLATĂ: {payment} 		 
+
+REFERINŢĂ
+
+PRODUS
+
+PRET UNITAR
+
+CANTITATE
+
+PREŢ TOTAL
+
+{items} 
+
+PRODUSE 
+
+{total_products} 
+
+REDUCERI 
+
+{total_discounts} 
+
+AMBALAT CA UN CADOU 
+
+{total_wrapping} 
+
+LIVRARE 
+
+{total_shipping} 
+
+TAXE TOTALE PLĂTITE 
+
+{total_tax_paid} 
+
+TOTAL PLĂTIT 
+
+{total_paid} 
+
+{carrier} 
+
+{delivery_block_html} 
+
+{invoice_block_html} 
+
+{message} 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Salut, 
+
+{shop_name} vă invită să trimiteți acest link către prietenii
+dvs, pentru a vă vedea lista de dorințe: {wishlist}
+
+{message} [{message}] 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

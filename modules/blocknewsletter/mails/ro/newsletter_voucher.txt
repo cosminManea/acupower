@@ -1,0 +1,11 @@
+
+[{shop_url}] 
+
+Salut, 
+
+Cu privire la abonarea dumneavoastra pentru buletinul informativ,
+suntem incantati sa va oferim urmatorul cupon: {discount} 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

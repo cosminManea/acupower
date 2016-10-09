@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Salut, 
+
+Vă mulţumim pentru abonarea dvs, la newsletter.Vă rugăm să
+confirmaţi cererea dvs. dând clic pe link-ul de mai jos:
+
+{verif_url} [{verif_url}] 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,11 @@
+
+[{shop_url}] 
+
+Salut, 
+
+VĂ MULȚUMIM PENTRU ABONAREA DUMNEAVOASTRĂ LA ACEST BULETIN
+INFORMATIV. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
