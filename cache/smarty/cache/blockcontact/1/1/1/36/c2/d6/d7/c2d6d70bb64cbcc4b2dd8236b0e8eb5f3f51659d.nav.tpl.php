@@ -10,18 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '17664518257fa471ea78558-21311214',
-  'variables' => 
-  array (
-    'is_logged' => 0,
-    'link' => 0,
-    'telnumber' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57fa471ea80152_32927146',
+  'unifunc' => 'content_57fab3ce59b8f6_38823865',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57fa471ea80152_32927146')) {function content_57fa471ea80152_32927146($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_57fab3ce59b8f6_38823865')) {function content_57fab3ce59b8f6_38823865($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://acupower.plm/index.php?controller=contact" title="Contact us">Contact us</a>
 </div>
 	<span class="shop-phone">

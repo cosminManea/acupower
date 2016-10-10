@@ -1,4 +1,4 @@
-Contributing to PrestaShop
+sContributing to PrestaShop
 --------------------------
 
 PrestaShop is an open-source e-commerce solution. Everyone is welcome and even encouraged to contribute with their own improvements.

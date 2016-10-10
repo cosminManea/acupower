@@ -1,0 +1,651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"header",
+				"header-2.css\t(header-2.php)"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"gr",
+				"greyS"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fe",
+				"inline-flex"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mart",
+				"margin-right"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"l",
+				"lighter"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"a",
+				"absolute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Add Repository"
+			],
+			[
+				"reposi",
+				"Package Control: Add Repository"
+			],
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls -a",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/acupower.plm"
+	],
+	"file_history":
+	[
+		"/home/dtf-2/.cache/.fr-uvlMUI/PHP-backdoors-master/Deobfuscated/commandshell.php",
+		"/home/dtf-2/.cache/.fr-k1TMKE/PHP-backdoors-master/Obfuscated/backdoor.php",
+		"/var/www/acupower.plm/index.html",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-2.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/footer-2.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/functions.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/footer-2.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-3.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/rating.js",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-4.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-buy_tickets.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-templates/page-home.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/templates/singleStandardLottery.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/content.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-terms.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-terms.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/style.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-lottoroom.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-checkout.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-account.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-4.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-3.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/header-2.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/footer.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/theme-elements/lotto-widget-registration.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/theme-elements/lotto-widget-change-password.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/theme-elements/lotto-widget-deposits.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-ticket-details.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-shopping-cart.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-reset-password.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-account.php",
+		"/home/dtf-2/Desktop/mailTemplate/report.html",
+		"/home/dtf-2/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/dtf-2/Downloads/f4e-all-templates copy/newsletter.html",
+		"/home/dtf-2/Downloads/f4e-all-templates copy/hero.html",
+		"/home/dtf-2/Desktop/mailTemplate/untitled.html",
+		"/home/dtf-2/Desktop/mailTemplate/asda.html",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-account.php",
+		"/home/dtf-2/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-checkout_purchase_successful.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/css/dest/styles.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-checkout_empty.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-checkout.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-account_header.php",
+		"/home/dtf-2/.config/sublime-text-3/Packages/CSScomb/README.md",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/templates/standardLotteries.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/templates/groupGamesList.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-test-page.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/templates/lottoRoom.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lottoRoom.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-standard-lotteries-all.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-lottoroom.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/css/styles.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/custom.js",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/custom.min.js",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-group-games.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-lottoRoom.php",
+		"/run/user/1000/gvfs/smb-share",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/theme-elements/lotto-widget-biggest-jp.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/inc/widgets/softLottoBasicSearchWidget.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/src/widgets/lottoroom.less",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-standard-lotteries-show-3.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/theme-elements/lotto-widget-lottoroom.php",
+		"/home/dtf-2/Downloads/lottoRoom.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/dest/styles.css",
+		"/tmp/mozilla_dtf-20/sublime_text_3_build_3126_x64.tar.bz2",
+		"/home/dtf-2/Desktop/userName",
+		"/home/dtf-2/.config/sublime-text-3/Packages/User/sftp_servers/dorin",
+		"/home/dtf-2/Downloads/bootstrap-3.3.7-dist.zip",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-templates/page-group-games.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-combo-group-games.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/page-templates/page-group-games.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/theme-elements/lotto-widget-standard-lotteries-show-6.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-lottoroom-popups.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/css/style.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/Dorin",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/templates/testtemplate.hbs",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/setup.js",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/gulpfile.js",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/libs.min.js",
+		"/home/dtf-2/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/dtf-2/.config/sublime-text-3/Packages/Theme - Rainbow/Theme - Rainbow.sublime-settings",
+		"/home/dtf-2/.config/sublime-text-3/Packages/Colorsublime-Themes/cosminTheme.tmTheme",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-lottoroom.php",
+		"/home/dtf-2/Desktop/test/test1.html",
+		"/home/dtf-2/Desktop/test/style.css",
+		"/home/dtf-2/Desktop/slider/no-jquery.html",
+		"/home/dtf-2/Desktop/slider1/deep-minified.html",
+		"/home/dtf-2/Desktop/different-size-photo-slider.slider.zip",
+		"/home/dtf-2/Desktop/slider/with-jquery.html",
+		"/home/dtf-2/Desktop/image-slider.slider.zip",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/dest/scripts.js",
+		"/home/dtf-2/Desktop/test/index.html",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/plugins/index.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/plugins/hello.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-includes/widgets/class-wp-nav-menu-widget.php",
+		"/home/dtf-2/Desktop/test/test.js",
+		"/home/dtf-2/Desktop/customization/src/templates/test.hbs",
+		"/home/dtf-2/Desktop/customization/gulpfile.js",
+		"/home/dtf-2/Desktop/customization/src/js/hbshelpers.js",
+		"/home/dtf-2/Desktop/customization/src/libs/jquery.countdown.min.js",
+		"/home/dtf-2/Desktop/customization/src/libs/handlebars.min.js",
+		"/home/dtf-2/Desktop/customization/src/templates/testtemplate.hbs",
+		"/home/dtf-2/Desktop/customization/package.json",
+		"/home/dtf-2/.cache/.fr-oTc9bX/__MACOSX/customization/src/._.DS_Store",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/index.html",
+		"/home/dtf-2/.cache/.fr-6h1iRa/customization/lang/en.js",
+		"/home/dtf-2/.cache/.fr-u5Nt0H/customization/.DS_Store",
+		"/home/dtf-2/.cache/.fr-WqasVs/customization/gulpfile.js",
+		"/home/dtf-2/.cache/.fr-wrJ9KH/customization/src/libs/jquery.countdown.min.js",
+		"/home/dtf-2/.cache/.fr-895zWm/customization/src/libs/jquery.simplePagination.js",
+		"/home/dtf-2/Desktop/wordpressDB.sql",
+		"/home/dtf-2/Desktop/wordpressDB/wppalace_wp_icl_strings.sql",
+		"/home/dtf-2/Desktop/wordpressDB/wppalace_wp_simply_static_pages.sql",
+		"/home/dtf-2/Desktop/softlottobase.wordpress.2016-09-21.xml",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/page-Lottoroom.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-includes/functions.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-includes/widgets.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/main.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/styles.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto-child/customization/src/less/styles.less",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/test/dest/styles.css",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/src/widgets/standardLotteries.less",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/content.php",
+		"/run/user/1000/gvfs/smb-share:server=diskstation2.local,share=web/LottoCore-WP/wp-content/themes/softlotto/css/test/src/external/simplePagination.less"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"                                                                 ",
+			"Welcome",
+			"Welcom",
+			"Welcome",
+			"welcome",
+			"<html>",
+			"<body>",
+			"<body",
+			"body",
+			"templateBody",
+			"mcnTextContent",
+			"templateBody",
+			"templateBody\n",
+			"Manea",
+			"manea",
+			"56px",
+			"Manea",
+			"default-group-games",
+			"false",
+			"a",
+			"fa-clock",
+			"fa ",
+			";\n",
+			"slider-lottery-overview",
+			"slider",
+			"jackpot-title",
+			"slider-lottery-overview",
+			"greyS",
+			"show",
+			"2days",
+			"1 Days",
+			"1 days",
+			"h1",
+			"div",
+			" {",
+			"slider-lottery-overview",
+			"jackpot-title",
+			"standardLotteries",
+			"lottery-logo",
+			"lottery-logo lottery_53",
+			"default_standardLotteries",
+			"singleStandardLottery",
+			"size",
+			"png",
+			"1",
+			"test",
+			"opa",
+			"loginForm",
+			"position",
+			"footer",
+			"loginForm",
+			"71",
+			"opacity",
+			"31",
+			"a href",
+			"h2",
+			"flagFr",
+			"loginUl",
+			".container",
+			"%;",
+			"container",
+			";\n",
+			"    \n",
+			"plaText",
+			"footer",
+			"11",
+			"logo",
+			" Shopping cart:",
+			"lottoName",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"true",
+			"h3",
+			"h1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "acupower.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/HeaderTest/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
